@@ -1,6 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
+title: Home
 ---
+
+## Welcome to Twisted Cane Woodworks
+
+Twisted Cane Woodworks is a portfolio showcasing fine woodworking projects and craftsmanship. Each piece is created with attention to detail and a passion for the art of woodworking.
+
+[View our posts and projects](/posts/)
